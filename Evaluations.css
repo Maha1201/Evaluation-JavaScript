@@ -1,0 +1,31 @@
+/* LEGER souci de mise en page ? */
+#div1 {
+    display: inline-block;
+    width: 49%;
+    height: 300px;
+    outline: thick ridge pink;
+}
+
+#div2 {
+    display: inline-block;
+    width: 49%;
+    margin: 10px;
+    /* margin-bottom: 10px; */ /* Pas besoin avec les outlines */
+    height: 300px;
+    outline: thick ridge pink;
+}
+
+#div3 {
+    display: inline-block;
+    width: 49%;
+    height: 300px;
+    outline: thick ridge pink;
+}
+
+#div4 {
+    display: inline-block;
+    width: 49%;
+    margin: 10px;
+    height: 300px;
+    outline: thick ridge pink;
+}
